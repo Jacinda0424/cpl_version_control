@@ -515,4 +515,8 @@ if __name__=='__main__':
     # sim.setup(G=6.67428e-8, method="Euler", io_freq=10, io_screen=True, io_title="solar_2D")
     # sim.evolve(dt=86400,tmax=365*86400)
 
+<<<<<<< HEAD
     print("Done")
+=======
+    print("Done")
+>>>>>>> 09ea7176120b64d661efff65d21d98eb53daa2bd
